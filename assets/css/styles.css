@@ -32,3 +32,9 @@ p, h1, h2, h3, h4, h5, h6 {
   font-family: PTSans, Arial, sans-serif;
   font-size: 62.5%;
 }
+
+.main h1{
+  color: rgb(249,212,120);
+  font-family: "Arial Black", Arial, Helvetica, sans-serif;
+  font-size: 4.21em;
+}
