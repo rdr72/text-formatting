@@ -26,3 +26,9 @@ p, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
 }
 /* end reset browser styles */
+
+
+:root{
+  font-family: PTSans, Arial, sans-serif;
+  font-size: 62.5%;
+}
