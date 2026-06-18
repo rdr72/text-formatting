@@ -86,7 +86,7 @@ p, h1, h2, h3, h4, h5, h6 {
   margin: 5px 0 25px 50px;
 }
 
-.main .byline .strong {
+.main .byline strong {
   color: rgb(32,126,191);
   text-transform: uppercase;
   margin-left: 11px;
