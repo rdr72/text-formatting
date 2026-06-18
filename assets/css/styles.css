@@ -68,3 +68,9 @@ p, h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   color: rgb(153,153,153);
 }
+
+.main ul {
+  margin: 50px 0 25px 50px;
+  width: 25%;
+  float: right;
+}
