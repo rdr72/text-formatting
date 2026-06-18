@@ -63,3 +63,8 @@ p, h1, h2, h3, h4, h5, h6 {
   margin-right: 50px;
   margin-bottom: 10px;
 }
+
+.main p::first-line {
+  font-weight: bold;
+  color: rgb(153,153,153);
+}
