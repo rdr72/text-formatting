@@ -74,3 +74,9 @@ p, h1, h2, h3, h4, h5, h6 {
   width: 25%;
   float: right;
 }
+
+.main li {
+  color: rgb(32,126,191);
+  font-size: 1.5em;
+  margin-bottom: 7px;
+}
